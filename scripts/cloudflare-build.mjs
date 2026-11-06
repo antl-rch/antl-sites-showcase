@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { downloadLegacyAssets } from './restore-legacy-assets.mjs';
 
 // Flat HTML preserves the existing extensionless URLs without adding a slash.
 const dist = path.resolve('dist');
@@ -14,6 +15,9 @@ const flattenPrerenderedRoutes = directory => {
   }
 };
 flattenPrerenderedRoutes(dist);
+const legacy = JSON.parse(fs.readFileSync(new URL('./legacy-assets.json', import.meta.url), 'utf8'));
+await downloadLegacyAssets(legacy, dist);
+
 
 const config = fs.existsSync('vercel.json') ? JSON.parse(fs.readFileSync('vercel.json', 'utf8')) : { headers: [] };
 const preview = process.env.CLOUDFLARE_BUILD_PREVIEW === 'true';

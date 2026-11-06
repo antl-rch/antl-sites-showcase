@@ -5,7 +5,7 @@ const previews = (id: string, detail: string): Preview[] => [
   { file: `${id}-mobile-home.jpg`, label: "Accueil", device: "mobile" as const, width: 390, height: 844 },
   { file: `${id}-mobile-detail.jpg`, label: detail, device: "mobile" as const, width: 390, height: 844 },
 ];
-const demo = (id: string) => `https://antl-software.github.io/antl-landing-page-template-${id}/`;
+const demo = (id: string) => `https://antl-demo-${id}.pages.dev/`;
 export const templates: readonly Template[] = [
   { id: "01", name: "Horizon", business: "Services & entreprises", description: "Une vitrine claire et rassurante pour expliquer votre savoir-faire, valoriser votre offre et ouvrir la conversation.", categories: ["showcase"], features: ["Présentation de l’offre", "Bénéfices & témoignage", "Prise de contact"], demoUrl: demo("01"), accent: "#dce3cb", previews: previews("01", "Fonctionnalités") },
   { id: "02", name: "Mouvement Studio", business: "Clubs & studios de danse", description: "Un univers expressif, des cours à découvrir et un espace adhérent pour organiser la vie du club.", categories: ["showcase", "booking"], features: ["Réservation de cours", "Espace adhérent", "Formules & crédits"], demoUrl: demo("02"), accent: "#e4e5ff", previews: previews("02", "Espace adhérent") },

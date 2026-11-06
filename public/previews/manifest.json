@@ -1,225 +1,261 @@
 {
-  "capturedAt": "2026-10-08",
-  "source": "Déploiements GitHub Pages publics",
+  "capturedAt": "2026-11-06T22:21:36.675Z",
+  "source": "Builds Cloudflare natifs depuis les dépôts GitHub entreprise, contrôle navigateur 42304015616",
   "brandSource": "external_website/src/assets/brand/antlLogo.png",
   "templates": [
     {
       "id": "01",
-      "url": "https://antl-software.github.io/antl-landing-page-template-01/",
+      "url": "https://antl-demo-01.pages.dev/",
       "screenshots": [
         {
           "file": "01-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "01-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "01-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "01-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
-      ]
+      ],
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "8593c482404091bf258dbf9aef90adda31c21f79"
     },
     {
       "id": "02",
-      "url": "https://antl-software.github.io/antl-landing-page-template-02/",
+      "url": "https://antl-demo-02.pages.dev/",
       "screenshots": [
         {
           "file": "02-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "02-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "02-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "02-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
-      ]
+      ],
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "e1b3d63f01ea2f3c102bdb3b7eb46cbbc34a51e0"
     },
     {
       "id": "03",
-      "url": "https://antl-software.github.io/antl-landing-page-template-03/",
+      "url": "https://antl-demo-03.pages.dev/",
       "screenshots": [
         {
           "file": "03-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "03-desktop-detail.jpg",
           "width": 1440,
           "height": 1000,
-          "capturedAt": "2026-10-20",
-          "verifiedImages": [
-            "Primavera",
-            "Mike Vera",
-            "Lavande Spezia"
-          ]
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "03-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "03-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
-      ]
+      ],
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "f708e4d84a9fb9f14e5f190f3de25c075475d0cc"
     },
     {
       "id": "04",
-      "url": "https://antl-software.github.io/antl-landing-page-template-04/",
+      "url": "https://antl-demo-04.pages.dev/",
       "screenshots": [
         {
           "file": "04-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "04-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "04-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "04-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
-      ]
+      ],
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "e1054db11db6b9dc0a0096c5d53fe8b1526d4e9d"
     },
     {
       "id": "05",
-      "url": "https://antl-software.github.io/antl-landing-page-template-05/",
+      "url": "https://antl-demo-05.pages.dev/",
       "screenshots": [
         {
           "file": "05-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "05-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "05-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "05-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
-      ]
+      ],
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "456b52b6b3e4df4e7ece228a71215bc29db11d29"
     },
     {
       "id": "06",
-      "url": "https://antl-software.github.io/antl-landing-page-template-06/",
+      "url": "https://antl-demo-06.pages.dev/",
       "screenshots": [
         {
           "file": "06-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "06-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "06-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "06-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
       ],
-      "capturedAt": "2026-10-15",
-      "commit": "7a67909cf5f817df11c93becfd188cc9977e0ba9"
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "22346b5b1534bc067ef23e7c3c17090410f8f823"
     },
     {
       "id": "07",
-      "url": "https://antl-software.github.io/antl-landing-page-template-07/",
-      "capturedAt": "2026-10-15",
-      "commit": "78fe273e9f068ae8ac55fa0229e84fc321788e68",
+      "url": "https://antl-demo-07.pages.dev/",
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "a88cf74e9abf20b0b0ed1c5b01bb868a660cc2fa",
       "screenshots": [
         {
           "file": "07-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "07-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "07-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "07-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
       ]
     },
     {
       "id": "08",
-      "url": "https://antl-software.github.io/antl-landing-page-template-08/",
-      "capturedAt": "2026-10-15",
-      "commit": "4d62bfbc9149dd0eeb7dc51f35c00f919c2412dd",
+      "url": "https://antl-demo-08.pages.dev/",
+      "capturedAt": "2026-11-06T22:21:36.675Z",
+      "commit": "d1fe0ea75fd44c5e4c2c7c1bc70690dafcfe680e",
       "screenshots": [
         {
           "file": "08-desktop-home.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "08-desktop-detail.jpg",
           "width": 1440,
-          "height": 1000
+          "height": 1000,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "08-mobile-home.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         },
         {
           "file": "08-mobile-detail.jpg",
           "width": 390,
-          "height": 844
+          "height": 844,
+          "capturedAt": "2026-11-06T22:21:36.675Z"
         }
       ]
     }
